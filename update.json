@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mainExecutable": "hicarcom_desktop.exe",
-  "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/main/update/",
+  "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/refs/heads/main/update/",
   "files": [
     {
       "path": "audioplayers_windows_plugin.dll",
