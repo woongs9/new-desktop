@@ -1,0 +1,333 @@
+{
+  "version": "1.0.0",
+  "mainExecutable": "hicarcom_desktop.exe",
+  "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/main/update/",
+  "files": [
+    {
+      "path": "audioplayers_windows_plugin.dll",
+      "size": 201728,
+      "sha256": "8c9732786c6cd91477296247f90c8cae9f463f355b0c66af0d7b3d8d9443e564"
+    },
+    {
+      "path": "data/app.so",
+      "size": 15221680,
+      "sha256": "402d31c6ebe0b0ed009a01f0b7aed0dbb3596412dec7b4571be9edf3c4b66c4e"
+    },
+    {
+      "path": "data/flutter_assets/AssetManifest.bin",
+      "size": 3894,
+      "sha256": "a7ef0c2b14bc92ff2fafac4d1f6490c4da002e0b0062197d0514542034c2e758"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/NPSfont_regular.ttf",
+      "size": 1936036,
+      "sha256": "b53c9d52c09e1f98527e9b863daaf53dd51077b9015c4bf22d4df53a569c652c"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-Black.ttf",
+      "size": 2665004,
+      "sha256": "0a7c1fd65a599f9d25de860cc832ea9ac40c207775e33eb4344a4647392a2b5d"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-Bold.ttf",
+      "size": 2661752,
+      "sha256": "c16b88c670d23e83fa1170c954cbc4822d3b8dad3c3cde15d798a94b43d97985"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-ExtraBold.ttf",
+      "size": 2669648,
+      "sha256": "eedbd2877218242323bdff816684f7f5c325e54ae820d5b78eec9a5e5c7edef6"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-ExtraLight.ttf",
+      "size": 2838808,
+      "sha256": "041fad1c6a532208d52def16576f0d1dd7f1b77b9306c657f69bf619f2b638cc"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-Light.ttf",
+      "size": 2813692,
+      "sha256": "1ba73b22955754bb9ed6bbf7678416af647f90704e9064661f7924da578dad3e"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-Medium.ttf",
+      "size": 2701192,
+      "sha256": "3bae579377eb8e9ac412cb4809ebc3de1d956ed75995c1e346f0c1311053f4e2"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-Regular.ttf",
+      "size": 2725828,
+      "sha256": "6d0af5258997aec7354a6e340fc2325ba321c410ca48b3af858c8c3d6e92a324"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-SemiBold.ttf",
+      "size": 2671468,
+      "sha256": "5e1c548732af70873103066c16e1369b9a8a871f0b38c321a1d5bc73e43cea2d"
+    },
+    {
+      "path": "data/flutter_assets/assets/font/Pretendard-Thin.ttf",
+      "size": 2868924,
+      "sha256": "5f65cfe7d99934ee73de983df26154666c65418d73a62f634110945f2ddc0caf"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/additional.png",
+      "size": 2770,
+      "sha256": "4290bb5849aa99d8b98e877b87e0fd69633b3b1c3246ab69c2e92355aa2cc903"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/calendar.png",
+      "size": 312048,
+      "sha256": "e83a08febb8db268097f72050dd1af1c648832305284f1196d651479e8a6ca85"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/Camera.png",
+      "size": 706,
+      "sha256": "9a01dc968be9f068b535852f8be01380d3a2c84a02a17c46cf99beb82f50c9e0"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/cancel.png",
+      "size": 550181,
+      "sha256": "e8149bbe7ae94e27dc14eb5989227b3047241135d5b9ee0329f885fe458e7799"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/Car.png",
+      "size": 677,
+      "sha256": "785ec2a01343f239d7eb7809f238a49ecd2ff0236954abd34420511b1197cee7"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/carDriver.png",
+      "size": 3932263,
+      "sha256": "e0d3b26ee63492de4dfbfdf8d0bf617213be6ccf7ce345f50ee51b38aa519862"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/change.png",
+      "size": 310,
+      "sha256": "35e1e88aa31fc2abfc12c2d895c5292aec135ddca8a111a0dda8e611f8287e1f"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/DollarCoin.png",
+      "size": 736,
+      "sha256": "85250fba3a2dceea8ba4e5746c3fb697756a3a535fafef47ac44339b1b7f27a5"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/handPhone.png",
+      "size": 164277,
+      "sha256": "d48ce6a37a98590df0dcd48f1b84e2f09b77eccb7d342b0ae74314ee1c2e2629"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/hicarcom.png",
+      "size": 20148,
+      "sha256": "307d0851cb0045818244016a9c9cee86fc088f864abf9f428d2b8732bafe457a"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/icon.png",
+      "size": 42029,
+      "sha256": "4904909bd3ddf1e0d65f1642ee58953ff03594db49c50090251f0720a5be96f1"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/icon1.png",
+      "size": 473,
+      "sha256": "57f855e9b67c41893591f01ad4bca8237de64908a58947f0404cbeb54e3d4429"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/Location.png",
+      "size": 761,
+      "sha256": "64f0fa5b3ca516b6395cb35d77ec61cb6e652c64f04cd84c7210b5799c3bb897"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/logi.png",
+      "size": 71398,
+      "sha256": "1430cf8035fe850614765be07048abcd00ba4922487ff622e126bef80ce51ad8"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/logi_icon.png",
+      "size": 731164,
+      "sha256": "f08072852a553ff5ff95c78019bd2eb478af29a90fa5d002f2410897975481a8"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/logo.png",
+      "size": 19882,
+      "sha256": "18a32a0f0160004663b6db419a27c4fa1423c282d91f776860678616dadc8a0d"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/mainPageCar.png",
+      "size": 6585112,
+      "sha256": "dc2341e5ff85e54464c6e20f820f9b740c8fba1563610f4daa19aca7b521be19"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/manual_page-0001.jpg",
+      "size": 668064,
+      "sha256": "f3523fd4a783b99ea07d1c3ba7ed9c94ce17520bbd9f42e4fc470a78d834cdb6"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/manual_page-0002.jpg",
+      "size": 1868578,
+      "sha256": "40c75bc50fa21d3e4009f62a298a11d2308b87dfc4a3a324d351c637df0dd022"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/manual_page-0003.jpg",
+      "size": 1608153,
+      "sha256": "85b32f0690a032f9e58c2183dda6107a3e551280106318511907756f52146b91"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/manual_page-0004.jpg",
+      "size": 1292401,
+      "sha256": "dc898a3c492043dbc360e089258d72207c5709e184121ee458149244cf8b71ca"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/manual_page-0005.jpg",
+      "size": 1566406,
+      "sha256": "708b62d31d57356b63d84ac069bd042cda5df81d688f838a176a39ba8cf51460"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/mapLocation.png",
+      "size": 1973886,
+      "sha256": "93a174f454012ec4dba4b2a395e1157ed8ee3e885c8c10f18c8d676c38e4777c"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/Today.png",
+      "size": 435,
+      "sha256": "d264a0560b78a4db266bb7e6e762a354308c5cb26f4cf2db3204b2e8afa5700c"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/unknown.png",
+      "size": 92463,
+      "sha256": "deda96c43c6ced3f52ba89a2623fbe35570d96beee053b3788dfacba8a2723c4"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/User.png",
+      "size": 544,
+      "sha256": "0db39110d57e440bd75aa4de8bbe5afe7e92761bc249cea0d778a89ef9b062a7"
+    },
+    {
+      "path": "data/flutter_assets/FontManifest.json",
+      "size": 1874,
+      "sha256": "364c4f7850e0bf1a5149d4ab7e6fd5461bc789f08490ac1c5648047dd4581055"
+    },
+    {
+      "path": "data/flutter_assets/fonts/MaterialIcons-Regular.otf",
+      "size": 1645184,
+      "sha256": "d9865b671a09d683d13a863089d8825e0f61a37696ce5d7d448bc8023aa62453"
+    },
+    {
+      "path": "data/flutter_assets/NativeAssetsManifest.json",
+      "size": 45,
+      "sha256": "9548a31e4a048135c1d94f919328bfb62ae2c7bb3cab96557c7941daa97776cb"
+    },
+    {
+      "path": "data/flutter_assets/NOTICES.Z",
+      "size": 124273,
+      "sha256": "86ac89f93942af0630435545c634264de92ded3f8acccfb2567f42eaf50b7bd0"
+    },
+    {
+      "path": "data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+      "size": 257628,
+      "sha256": "67c44fe9183b002e79dde7f6977e2988661c9a3e4a3c5fce968787efdbed823c"
+    },
+    {
+      "path": "data/flutter_assets/packages/fluent_ui/assets/AcrylicNoise.png",
+      "size": 3241,
+      "sha256": "4f2aa94a2e345a32dae689176b86c644bef87081ff9daef8c77417731862031b"
+    },
+    {
+      "path": "data/flutter_assets/packages/fluent_ui/fonts/FluentIcons.ttf",
+      "size": 501796,
+      "sha256": "0af1385fa65e3a1f14e62adbce4f2149abc6b5d7d77fd5502b007c937fdb8e87"
+    },
+    {
+      "path": "data/flutter_assets/packages/fluent_ui/fonts/SegoeIcons.ttf",
+      "size": 451924,
+      "sha256": "8174e92a5f9a19ada80827bb3536088438c683f0cd96cb382dc8b919191cd0d4"
+    },
+    {
+      "path": "data/flutter_assets/packages/flutter_map/lib/assets/flutter_map_logo.png",
+      "size": 2424,
+      "sha256": "6051ae42fb505931a833e58f9209a9f96669a4d0e4b3f06f6d82cde12a0e0401"
+    },
+    {
+      "path": "data/flutter_assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Brands-Regular-400.otf",
+      "size": 215132,
+      "sha256": "5ca45a8966e2aca9199839e484e429ada36e525c7637fd910613ddfe51738375"
+    },
+    {
+      "path": "data/flutter_assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Regular-400.otf",
+      "size": 87340,
+      "sha256": "c6265ca5839938625a3c8c37a00cdcb2633d1ad6ab2c096c97b590a27162b67a"
+    },
+    {
+      "path": "data/flutter_assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Solid-900.otf",
+      "size": 414664,
+      "sha256": "c1091147299a846195bbca8b26528de6c9af842f236e7db44a1c2e8c9df52372"
+    },
+    {
+      "path": "data/flutter_assets/packages/syncfusion_flutter_datagrid/assets/font/FilterIcon.ttf",
+      "size": 3308,
+      "sha256": "adb792201b642929b8eeba5a2bc29fe715270ecd3a9c9dbe458cacd44008c3c0"
+    },
+    {
+      "path": "data/flutter_assets/packages/syncfusion_flutter_datagrid/assets/font/UnsortIcon.ttf",
+      "size": 1092,
+      "sha256": "da025ccc36048867aa04f9a44f2222edd18480d74861b5dc6ba7d91d1b547616"
+    },
+    {
+      "path": "data/flutter_assets/shaders/ink_sparkle.frag",
+      "size": 21328,
+      "sha256": "0ddb6dd1d060d863b453c26aaae72d539d5dbc5443e086ef618280da73d71380"
+    },
+    {
+      "path": "data/flutter_assets/shaders/stretch_effect.frag",
+      "size": 17368,
+      "sha256": "0ed3145e5e380355d92f9ccc66dba1c00d1b5001b1efa0dbeb6398dd56910486"
+    },
+    {
+      "path": "data/icudtl.dat",
+      "size": 862304,
+      "sha256": "998367809a821d595928089c197b3f7959f0420f81f79d4d0daee53378492ed5"
+    },
+    {
+      "path": "desktop_multi_window_plugin.dll",
+      "size": 131584,
+      "sha256": "6f81ec63d0b02d6fc648606f8cbd4ce0ac83eec64d905cef3d08a55844bd4787"
+    },
+    {
+      "path": "file_selector_windows_plugin.dll",
+      "size": 105984,
+      "sha256": "ef24300fafba2eb7713b3c72e12fe09c85e825937b6c9ae40c2c48592acf2af5"
+    },
+    {
+      "path": "flutter_localization_plugin.dll",
+      "size": 79872,
+      "sha256": "28a348382089a03f1d140678a4ab015a4db71cae65a9866dc1400175b2f93386"
+    },
+    {
+      "path": "flutter_windows.dll",
+      "size": 20803584,
+      "sha256": "d11221cbdf328ab47e50315e3171ee9a00f2387cf3f6302a6717475620cbe7f0"
+    },
+    {
+      "path": "hicarcom_desktop.exe",
+      "size": 76288,
+      "sha256": "df35d307d673591aa42e8abc145838e3af88875177688efbded174f3eca6cdf1"
+    },
+    {
+      "path": "hotkey_manager_windows_plugin.dll",
+      "size": 103424,
+      "sha256": "d5929a97f31aae4664c64441c47774d08dbe9f4ea8db90ea649d0e3d7a5d8257"
+    },
+    {
+      "path": "screen_retriever_windows_plugin.dll",
+      "size": 116224,
+      "sha256": "521aa3f8e3d422b6054839c4d15d263de9a71fe278b821b8e0c529df9d8d42d5"
+    },
+    {
+      "path": "url_launcher_windows_plugin.dll",
+      "size": 89600,
+      "sha256": "d88577c6426c5b04b87f9ad249b6b025dadb551fd4ddebf2e9669a364a8b1b5a"
+    },
+    {
+      "path": "window_manager_plugin.dll",
+      "size": 141312,
+      "sha256": "fd82c964bf20a2ea2297af23af7c79ce91a3fb8b391787b1e719438bb3d333dd"
+    }
+  ],
+  "delete": []
+}
