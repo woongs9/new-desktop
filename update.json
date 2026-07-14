@@ -10,8 +10,8 @@
     },
     {
       "path": "data/app.so",
-      "size": 15221680,
-      "sha256": "402d31c6ebe0b0ed009a01f0b7aed0dbb3596412dec7b4571be9edf3c4b66c4e"
+      "size": 15369136,
+      "sha256": "f59678527829339bafdd4dc81cf69ff4d4d5ca72a70e23eb2e89cd298a66714a"
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
@@ -306,7 +306,7 @@
     {
       "path": "hicarcom_desktop.exe",
       "size": 76288,
-      "sha256": "df35d307d673591aa42e8abc145838e3af88875177688efbded174f3eca6cdf1"
+      "sha256": "2ef85ab1a248ee5ff001fd79c171b955c57e5435bc4f49a061f1970a13e7eaf1"
     },
     {
       "path": "hotkey_manager_windows_plugin.dll",
