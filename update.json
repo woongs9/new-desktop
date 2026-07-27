@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "mainExecutable": "hicarcom_desktop.exe",
   "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/refs/heads/main/update/",
   "files": [
@@ -11,7 +11,7 @@
     {
       "path": "data/app.so",
       "size": 15401904,
-      "sha256": "283fd25c20385d6f66107268b16d2bc5a1d689d5ec118dd56614786ad7954ff3"
+      "sha256": "65f5e839f358994649a96ab0dc09d96db462b477582c60b0923ec1cf1f36f5fd"
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
