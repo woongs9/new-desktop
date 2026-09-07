@@ -1,17 +1,17 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "mainExecutable": "hicarcom_desktop.exe",
   "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/refs/heads/main/update/",
   "files": [
     {
       "path": "audioplayers_windows_plugin.dll",
       "size": 201728,
-      "sha256": "58daf4643a66b6e9f297333b53f8356ce9dc08211cd47522fe0e2a04ff5f0266"
+      "sha256": "b88a0ecaebb1c4ad67a7fdf2e4f159195c60d883e09107061e2132dc9da1d991"
     },
     {
       "path": "data/app.so",
-      "size": 15451056,
-      "sha256": "4352ce11f98b78131848a7e509b9f6a30514eaae9f998165b2f1eca24b64dfbf"
+      "size": 15483824,
+      "sha256": "3b7a257fed86f9308d7a70d0832dfbb8b01a2963f8709e13e90cdb7f34df57d3"
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
@@ -286,17 +286,17 @@
     {
       "path": "desktop_multi_window_plugin.dll",
       "size": 131584,
-      "sha256": "a2018888903a55bbc2606f9fe4a9cadee3e4b10f42e324ef16aee0b13ecac9ee"
+      "sha256": "9a58595376d17bac356a99e25f8280c081f1dff3241ac8191fd4e784c74d087d"
     },
     {
       "path": "file_selector_windows_plugin.dll",
       "size": 105984,
-      "sha256": "fc841eb72d6378ed000e778aee4487abd37528fd92ada7c6ea41f7bf5d91a439"
+      "sha256": "c8e43d3c17d4cbe2a7667e2e791ee28210a2a6d9eef65246f852f8791088b30a"
     },
     {
       "path": "flutter_localization_plugin.dll",
       "size": 79872,
-      "sha256": "0b566d08c0f253c52bba4f5140e3a8a2d216506bd323f77a3e607c70917a1708"
+      "sha256": "03a001dceb8b34f122d3bd98d00d096438bb32fb8060da52d605ddfdf0905134"
     },
     {
       "path": "flutter_windows.dll",
@@ -306,27 +306,27 @@
     {
       "path": "hicarcom_desktop.exe",
       "size": 76288,
-      "sha256": "a91163bf0e2ec4e323041cbf1e405641a96bdb78a06584ae476eb34f1ef26508"
+      "sha256": "9715db10ed1bf1f244e3fcda7a45263eddcc4bf4f05ae623b590f34e617712a9"
     },
     {
       "path": "hotkey_manager_windows_plugin.dll",
       "size": 103424,
-      "sha256": "ab8b3d8c200902aed16324a56e747672ba945d313a97b540995b7d206b7d0bb8"
+      "sha256": "ee1df015982c36b2d5434403c5c294a8d7345cb1f141fbc3765f477e5dbfa24b"
     },
     {
       "path": "screen_retriever_windows_plugin.dll",
       "size": 116224,
-      "sha256": "0e33e0e4a0ff1de5b58da960840f5860224833c7c75e64378a6bc9fd449048ea"
+      "sha256": "f77d589e12760747607fba2ab14e831917b4f8ef0ab44233c0992fedd9c8eb02"
     },
     {
       "path": "url_launcher_windows_plugin.dll",
       "size": 89600,
-      "sha256": "4575f03dfb6c7189f89bd0388456e854addb261a5aa4adf66538d55106cc761f"
+      "sha256": "8e95a0c6ece20840156397a47a1f309c18989eb7c764e81432dd0488139aad66"
     },
     {
       "path": "window_manager_plugin.dll",
       "size": 141312,
-      "sha256": "cdd87f2a64ed62d95ccc4b063e39bbdfb64bd32a6d7274564e82e1e77c214f1d"
+      "sha256": "61d68065af293bbda2f9b36de951ad6b605edd3628e28657bca6911794f78e03"
     }
   ],
   "delete": []
