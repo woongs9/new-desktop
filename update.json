@@ -1,5 +1,5 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "mainExecutable": "hicarcom_desktop.exe",
   "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/refs/heads/main/update/",
   "files": [
@@ -10,8 +10,8 @@
     },
     {
       "path": "data/app.so",
-      "size": 15664048,
-      "sha256": "0ad0420f0dd15efa4aa80086fa4f2bf11436727c5cf4f9c4aca528dbf8ac19ed"
+      "size": 15762352,
+      "sha256": "1fccf7178b490b125bbc06fbd5694e2d8e25412ef318a10395d01c488de8fa60"
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
@@ -312,6 +312,11 @@
       "path": "hotkey_manager_windows_plugin.dll",
       "size": 103424,
       "sha256": "f2a3d8580cd107345f710b6418e5011137c496b52de0954490e7068b96ba6355"
+    },
+    {
+      "path": "native_assets.json",
+      "size": 45,
+      "sha256": "9548a31e4a048135c1d94f919328bfb62ae2c7bb3cab96557c7941daa97776cb"
     },
     {
       "path": "screen_retriever_windows_plugin.dll",
