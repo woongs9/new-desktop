@@ -1,17 +1,17 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.34",
   "mainExecutable": "hicarcom_desktop.exe",
   "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/refs/heads/main/update/",
   "files": [
     {
       "path": "audioplayers_windows_plugin.dll",
       "size": 201728,
-      "sha256": "65dca0ad98c0d15865239a36b3c378a30d4667d1cf835189a9420361ddd55463"
+      "sha256": "6bbc2dc3d24e5bc97d4ea98a6e6254f1aa544e65cf9558904a6fbd5c5af65a8a"
     },
     {
       "path": "data/app.so",
-      "size": 15762352,
-      "sha256": "ff1d5252f9e2f7df40a4229d91f722d4fa14c6b19254c9a178a0bcad35fd441c"
+      "size": 16024456,
+      "sha256": "9d244de8c230e118b5e1de7d58f4ca1eec02d026663923734489ae29d4a921fc"
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
@@ -205,8 +205,8 @@
     },
     {
       "path": "data/flutter_assets/fonts/MaterialIcons-Regular.otf",
-      "size": 1645184,
-      "sha256": "d9865b671a09d683d13a863089d8825e0f61a37696ce5d7d448bc8023aa62453"
+      "size": 5900,
+      "sha256": "ee92129b666d3e721a1a3f0b602eac315d1e87b0dc7586c2ec97bebd71cf9b9b"
     },
     {
       "path": "data/flutter_assets/NativeAssetsManifest.json",
@@ -215,8 +215,8 @@
     },
     {
       "path": "data/flutter_assets/NOTICES.Z",
-      "size": 124273,
-      "sha256": "86ac89f93942af0630435545c634264de92ded3f8acccfb2567f42eaf50b7bd0"
+      "size": 118385,
+      "sha256": "35ed5b9b25ce2005338f14c0a1ed681a2c1e69d127303141e5448b2e224d4d0d"
     },
     {
       "path": "data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
@@ -230,13 +230,13 @@
     },
     {
       "path": "data/flutter_assets/packages/fluent_ui/fonts/FluentIcons.ttf",
-      "size": 501796,
-      "sha256": "0af1385fa65e3a1f14e62adbce4f2149abc6b5d7d77fd5502b007c937fdb8e87"
+      "size": 470904,
+      "sha256": "1b523ca240a8445b1699eadeb2725298dedf7307372cd8afa7d23133b6ab1708"
     },
     {
       "path": "data/flutter_assets/packages/fluent_ui/fonts/SegoeIcons.ttf",
-      "size": 451924,
-      "sha256": "8174e92a5f9a19ada80827bb3536088438c683f0cd96cb382dc8b919191cd0d4"
+      "size": 369824,
+      "sha256": "ccc352b11dce908c70d619fbac53c15a36e3a32d750025d337b50d1c5c8dd9cd"
     },
     {
       "path": "data/flutter_assets/packages/flutter_map/lib/assets/flutter_map_logo.png",
@@ -250,68 +250,68 @@
     },
     {
       "path": "data/flutter_assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Regular-400.otf",
-      "size": 87340,
-      "sha256": "c6265ca5839938625a3c8c37a00cdcb2633d1ad6ab2c096c97b590a27162b67a"
+      "size": 3144,
+      "sha256": "031026c8c2a056a0ab5ec80526ae9a809ef5c3e63b49c414aba1a570cadc6297"
     },
     {
       "path": "data/flutter_assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Solid-900.otf",
-      "size": 414664,
-      "sha256": "c1091147299a846195bbca8b26528de6c9af842f236e7db44a1c2e8c9df52372"
+      "size": 7140,
+      "sha256": "d829cb6f433ef92423218109c5485f95ec6a374feb94c0936d58df2cd33f55ca"
     },
     {
       "path": "data/flutter_assets/packages/syncfusion_flutter_datagrid/assets/font/FilterIcon.ttf",
-      "size": 3308,
-      "sha256": "adb792201b642929b8eeba5a2bc29fe715270ecd3a9c9dbe458cacd44008c3c0"
+      "size": 2796,
+      "sha256": "b27205022b4632051696abb14586ecda0ea88a5978a89507cb45cb89e8701c9e"
     },
     {
       "path": "data/flutter_assets/packages/syncfusion_flutter_datagrid/assets/font/UnsortIcon.ttf",
-      "size": 1092,
-      "sha256": "da025ccc36048867aa04f9a44f2222edd18480d74861b5dc6ba7d91d1b547616"
+      "size": 692,
+      "sha256": "233909b0136d34511139202e81ca7d46e073e4d47a7a7741eebe3dfb7b3a5bb6"
     },
     {
       "path": "data/flutter_assets/shaders/ink_sparkle.frag",
-      "size": 21328,
-      "sha256": "0ddb6dd1d060d863b453c26aaae72d539d5dbc5443e086ef618280da73d71380"
+      "size": 21856,
+      "sha256": "1fe8436a743884cb65078fe8c7b38e18f5365f2a2961270916f426fd13c604af"
     },
     {
       "path": "data/flutter_assets/shaders/stretch_effect.frag",
-      "size": 17368,
-      "sha256": "0ed3145e5e380355d92f9ccc66dba1c00d1b5001b1efa0dbeb6398dd56910486"
+      "size": 17616,
+      "sha256": "bc7599dbbbaab310efe41520574138d21fb18a88c8fe4495ed79315309336f6f"
     },
     {
       "path": "data/icudtl.dat",
-      "size": 862304,
-      "sha256": "998367809a821d595928089c197b3f7959f0420f81f79d4d0daee53378492ed5"
+      "size": 864880,
+      "sha256": "325a86063d26334c2eabe1743cea073b612540fbf3d8fc2ef0b5708e3763a8c7"
     },
     {
       "path": "desktop_multi_window_plugin.dll",
       "size": 131584,
-      "sha256": "8acb3625cd49d7f8f9b724dfb60cf2c92feef3bff311ba0dbcc527fc296adf79"
+      "sha256": "341c49caf76fce5f6ef6112b49ef1e93e2b2a02dbe5a876a7e4d12b7c9456e23"
     },
     {
       "path": "file_selector_windows_plugin.dll",
       "size": 105984,
-      "sha256": "096fe043c3edb94ff3d424eb24fb589e8d5d217f59983b2d44f77fbfffe88f18"
+      "sha256": "30bb52ab6c924835e41f0ed4605233a50595686d5aa213ab64761a71596a2251"
     },
     {
       "path": "flutter_localization_plugin.dll",
       "size": 79872,
-      "sha256": "b44e08bc565ef17c17ca323440ecb8ead933cfa6164432fb8b89389245e9115c"
+      "sha256": "b630c39f9c2a75423d866ad709edaac0f4a7bb5ff9223913f606063e7c271f86"
     },
     {
       "path": "flutter_windows.dll",
-      "size": 20803584,
-      "sha256": "d11221cbdf328ab47e50315e3171ee9a00f2387cf3f6302a6717475620cbe7f0"
+      "size": 21289472,
+      "sha256": "30494fb08f9f101a8fbe42568110aaa160efbd7341f3cfe877dc14214be3a233"
     },
     {
       "path": "hicarcom_desktop.exe",
       "size": 76288,
-      "sha256": "2acb2215d1109d47340671962b4e804c8c0895b27043e5c2a39a50ce89b3b84c"
+      "sha256": "cb86b39870e245e17b490f27f7b657eb81935e8ccd92c10785d5a69d25efb727"
     },
     {
       "path": "hotkey_manager_windows_plugin.dll",
       "size": 103424,
-      "sha256": "f2a3d8580cd107345f710b6418e5011137c496b52de0954490e7068b96ba6355"
+      "sha256": "873618de49ab0da1ca00a6b57418ead18fa578e4c51dc690a43b4367266aee67"
     },
     {
       "path": "native_assets.json",
@@ -321,17 +321,17 @@
     {
       "path": "screen_retriever_windows_plugin.dll",
       "size": 116224,
-      "sha256": "27ff386ae603011dfacafc4e1f65e6fcefa4c1036573745da00d1079570e61ad"
+      "sha256": "0fbc9db843a7b9f49235e81e054b0dad935e86189e55aa8a7b2f0726617933bf"
     },
     {
       "path": "url_launcher_windows_plugin.dll",
       "size": 89600,
-      "sha256": "fc6b07fab2b84e04a5a1fef4e3e9b903a9560e8c7faeb4e34fcccba795c83482"
+      "sha256": "9c46e94ba1aff35702c80a7a062fd37fdbc4c881b8c30c8129cd48f6cb143ab9"
     },
     {
       "path": "window_manager_plugin.dll",
       "size": 141312,
-      "sha256": "c10fbda32f2eeece65c6741795dabb19f8ede9bd7031e97b8bacc4dd5110d770"
+      "sha256": "616d4b065f63761bd40dd26fa5fcfdca6bea9fa5bf5aee2c0f5b47f6ef412f17"
     }
   ],
   "delete": []
