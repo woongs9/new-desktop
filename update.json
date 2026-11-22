@@ -1,5 +1,5 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "mainExecutable": "hicarcom_desktop.exe",
   "baseUrl": "https://raw.githubusercontent.com/woongs9/new-desktop/refs/heads/main/update/",
   "files": [
@@ -10,8 +10,8 @@
     },
     {
       "path": "data/app.so",
-      "size": 16024456,
-      "sha256": "9d244de8c230e118b5e1de7d58f4ca1eec02d026663923734489ae29d4a921fc"
+      "size": 16139144,
+      "sha256": "0a064f9f627d7c17624d8b7fe0fba50b0b83e768d0c0e8101bcd6332d8eb7f70"
     },
     {
       "path": "data/flutter_assets/AssetManifest.bin",
@@ -250,13 +250,13 @@
     },
     {
       "path": "data/flutter_assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Regular-400.otf",
-      "size": 3144,
-      "sha256": "031026c8c2a056a0ab5ec80526ae9a809ef5c3e63b49c414aba1a570cadc6297"
+      "size": 3408,
+      "sha256": "5d9cc3a167b88badff13885819215d282adc5141c3fcb4a3dda52f00837b6113"
     },
     {
       "path": "data/flutter_assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Solid-900.otf",
-      "size": 7140,
-      "sha256": "d829cb6f433ef92423218109c5485f95ec6a374feb94c0936d58df2cd33f55ca"
+      "size": 7336,
+      "sha256": "816d4170b2abb247dfed218f9d2531b587b73fddabf1fe69a2bfc244e8ba32c4"
     },
     {
       "path": "data/flutter_assets/packages/syncfusion_flutter_datagrid/assets/font/FilterIcon.ttf",
